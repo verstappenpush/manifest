@@ -3,6 +3,7 @@
   <remote name="cool585" fetch="https://github.com/cool585"/>
   <remote name="LineageOS" fetch="https://github.com/LineageOS"/>
   <remote name="Thiago22" fetch="https://github.com/thz22"/>
+  <remote name="vespa" fetch="https://github.com/verstappenpush"/>
   
 <!--Trees-->
   <project path="device/motorola/odessa"
@@ -16,9 +17,9 @@
            revision="fourteen" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_liber"
-           remote="Thiago22"
-           revision="sap" />
+           name="sm6150"
+           remote="vespa"
+           revision="odessa" />
 
     <project path="hardware/motorola"
            name="android_hardware_motorola"
@@ -33,5 +34,5 @@
   <project path="vendor/motorola"
            name="proprietary_vendor_motorola"
            remote="Thiago22"
-           revision="fourteen" />  
+           revision="qpr3" />  
 </manifest>
