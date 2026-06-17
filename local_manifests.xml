@@ -32,7 +32,7 @@
            revision="lineage-21" />
 
   <project path="vendor/motorola"
-           name="proprietary_vendor_motorola"
-           remote="Thiago22"
+           name="proprietary_vendor_motorola1"
+           remote="vespa"
            revision="qpr3" />  
 </manifest>
