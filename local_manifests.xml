@@ -17,9 +17,9 @@
            revision="fourteen" />
            
   <project path="kernel/motorola/sm6150"
-           name="sm6150"
-           remote="vespa"
-           revision="odessa" />
+           name="kernel_motorola_liber"
+           remote="Thiago22"
+           revision="sap" />
 
     <project path="hardware/motorola"
            name="android_hardware_motorola"
