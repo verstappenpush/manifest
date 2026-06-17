@@ -13,7 +13,7 @@
            
   <project path="device/motorola/sm6150-common"
            name="device_motorola_sm6150-common"
-           remote="Thiago22"
+           remote="vespa"
            revision="fourteen" />
            
   <project path="kernel/motorola/sm6150"
